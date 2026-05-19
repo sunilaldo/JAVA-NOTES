@@ -1,0 +1,76 @@
+ATTRIBUTES: 
+-----------
+1) KEY ATTRIBUTE(CANDIDATE KEY)
+2) NON-KEY ATTRIBUTE 
+3) PRIME KEY ATTRIBUTE
+4) NON-PRIME KEY ATTRIBUTE
+5) COMPOSITE KEY ATTRIBUTE 
+6) SUPER KEY ATTRIBUTE 
+7) FOREIGN KEY ATTRIBUTE 
+
+==========================================================================================================
+
+1) KEY ATTRIBUTE: 
+-----------------
+The attribute with which we can identify a record uniquely from the table 
+is called as key attribute.
+EX: EMPNO , ContactNo , AADHAAR , PAN etc...
+
+2) NON-KEY ATTRIBUTES:
+----------------------
+The attributes other than key attribute is called as 
+non-key attributes.
+EX: SAL , COMM , HIREDATE , MGR etc...
+
+3) PRIME KEY ATTRIBUTE:
+-----------------------
+Among the key attribute an atribute is choosen to identify a record 
+uniquely from the table is called as Prime key attribute.
+EX: EMPNO , DEPTNO 
+
+4) NON-PRIME KEY ATTRIBUTE:
+---------------------------
+The attributes other than prime key attribute are called as 
+non prime key attributes.
+EX: Contact No , Aadhaar No etc...
+
+5) COMPOSITE KEY ATTRIBUTE:
+---------------------------
+It is a combination of 2 or more non-key attributes to identify a record is called
+as composite key attribute.
+EX: ENAME , DEPTNO , SAL etc...
+
+6) SUPER KEY ATTRIBUTE:
+-----------------------
+It is the set of all key attributes.
+ 
+7) FOREIGN KEY ATTRIBUTE:
+-------------------------
+It is an attribute of other table which builds relation
+EX: DEPTNO 
+
+
+=============================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
